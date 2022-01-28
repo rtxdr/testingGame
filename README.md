@@ -3,3 +3,6 @@ I'm learning pygame aswell as python here, i might release a real game using thi
 
 # features
 cool intro animation and a button
+
+# what i wanna add
+some dumb ddr type rythm game
